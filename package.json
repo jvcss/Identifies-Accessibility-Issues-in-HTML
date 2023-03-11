@@ -1,0 +1,22 @@
+{
+  "name": "a11y-checker",
+  "version": "1.0.0",
+  "description": "I'm showing two ways to use the quality check, class based and function based. ",
+  "keywords": [
+    "quality",
+    "reactjs"
+  ],
+  "main": "src/index_function_based.js",
+  "dependencies": {
+    "a11y-checker": "2.2.0",
+    "react": "16.8.2",
+    "react-dom": "16.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
